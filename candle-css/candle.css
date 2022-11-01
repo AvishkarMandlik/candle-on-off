@@ -1,6 +1,7 @@
 .container {
     background-color: #1b3c40;
     background-image: linear-gradient(0deg, #1b3c40 16%, #7d6623 37%, #e2a507 58%, #b19f1a 80%, #175050 95%);
+    background-repeat: no-repeat;
     width: 100%;
     height: 610px;
     display: block;
